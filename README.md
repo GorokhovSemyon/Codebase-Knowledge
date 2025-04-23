@@ -1,9 +1,5 @@
 <h1 align="center">Turns Codebase into Easy Tutorial with AI</h1>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-> *Ever stared at a new codebase written by others feeling completely lost? This tutorial shows you how to build an AI agent that analyzes GitHub repositories and creates beginner-friendly tutorials explaining exactly how the code works.*
-
 <p align="center">
   <img
     src="./assets/banner.png" width="800"
